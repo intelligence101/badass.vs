@@ -1,0 +1,38 @@
+@font-face{
+	font-family: 'FuturaHandwritten';
+	font-style: normal;
+	src: url('./css/FuturaHandwritten.ttf') format('truetype');
+}
+
+body{
+	background: #f5f3f3;
+	font-family: "FuturaHandwritten";
+	font-size: 25px;
+	color: #222;
+	margin: 0;
+}
+
+div.polaroid {
+  background-color: #f5f3f3;
+  align-items: center;
+
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.Left {
+  color:#0087b1;
+  font-size:30px;
+}
+
+.Right {
+  color:#fb8734;
+  font-size:30px;
+}
+
+.App {
+  text-align: center;
+}
